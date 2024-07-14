@@ -3,7 +3,7 @@ import React from 'react'
 
 export const Footer = () => {
   return (
-    <div className="flex flex-col pl-[138px] pr-[138px] pb-[100px] gap-5">
+    <div className="flex flex-col pl-[138px] pr-[138px] pb-[100px] pt-[100px] gap-5">
         <p className="text-[#86B9B0] font-primary font-bold text-[30px]">Contacts</p>
         <div className="flex flex-col gap-4">
             <div className="flex gap-3">

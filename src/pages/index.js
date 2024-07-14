@@ -4,6 +4,7 @@ import { Navbar } from "@/components/Navbar";
 import { HeroBanner } from "@/components/HeroBanner";
 import { About } from "@/components/About";
 import { Footer } from "@/components/Footer";
+import { ProjectBanner } from "@/components/ProjectBanner";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -13,6 +14,7 @@ export default function Home() {
       <Navbar/>
       <HeroBanner/>
       <About/>
+      <ProjectBanner/>
       <Footer/>
     </div>
   );
