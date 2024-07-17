@@ -8,7 +8,7 @@ export const About = () => {
         <div className="flex flex-col pl-[100px] pr-[100px]">
         <div className="divide-y-2">
           <p className="text-[48px] text-[#86B9B0] font-bold font-primary">About Me</p>
-            <p className="text-[18px] font-bold pt-4 font-primary">Hello! I'm Junior, a UIUX and Frontend Developer based in Bandung, Indonesia. My strong interest in user interface (UI/UX) design and frontend development provides me with a holistic perspective in creating engaging and functional user experiences.
+            <p className="text-[18px] font-bold pt-4 font-primary">Hello! I'm Bintang, a UIUX and Frontend Developer based in Bandung, Indonesia. My strong interest in user interface (UI/UX) design and frontend development provides me with a holistic perspective in creating engaging and functional user experiences.
             </p>
         </div>
           <div className="">
