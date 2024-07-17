@@ -8,7 +8,7 @@ export const Navbar = () => {
         <p className="">BINTANG</p>
         </div>
         <div className="flex flex-row gap-4 text-[20px] font-bold">
-            <p className="cursor-pointer">Home</p>
+            <a className="cursor-pointer">Home</a>
             <p className="cursor-pointer">About</p>
             <p className="cursor-pointer">Projects</p>
             <p className="cursor-pointer">Contacts</p>
