@@ -12,7 +12,7 @@ export const Footer = () => {
             </a>
             <a href="https://www.linkedin.com/in/bintangghani/" target="_blank" className="flex gap-3">
                 <Icon icon="mdi:linkedin"  className="h-[30px] w-[30px]"/>
-                <p className="font-primary font-bold text-[20px]">Bintang Ghani</p>
+                <p className="font-primary font-bold text-[20px]">BintangGhani</p>
             </a>
             <a href="https://www.instagram.com/bintangghanis/?hl=en" target="_blank" className="flex gap-3">
                 <Icon icon="mdi:instagram" className="h-[30px] w-[30px]"/>
