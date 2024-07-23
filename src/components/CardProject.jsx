@@ -3,7 +3,7 @@ import React from 'react'
 
 export const Card = ({title, icons}) => {
   return (
-    <div className="relative w-fit h-[313px] bg-[#042630] rounded-[30px]">
+    <div className="relative w-fit h-[200px] sm:h-[313px] bg-[#042630] rounded-[30px]">
         <div className="font-bold font-primary p-[21px]">
             <p className="">{title}</p>
         </div>

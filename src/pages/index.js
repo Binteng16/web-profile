@@ -10,11 +10,13 @@ const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
-    <div className="bg-[#041421] w-screen">
+    <div className="bg-[#041421] w-full overflow-x-hidden">
           <Navbar/>
+      <div className="">
           <HeroBanner/>
           <About/>
           <ProjectBanner/>
+      </div>
           <Footer/>
     </div>
   );
